@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec9a098b-8a9f-434d-9141-82df0b7f7e29" name="Default Changelist" comment="" />
+    <list default="true" id="ec9a098b-8a9f-434d-9141-82df0b7f7e29" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Java执行过程 .jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/learn/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/learn/domain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/learn/reflect/ReflectDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/learn/reflect/ReflectDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/learn/reflect/ReflectDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/learn/reflect/TestReflect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pro.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/learn/reflect/ReflectDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/learn/reflect/ReflectDemo1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +27,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1l5Fo4cjGgz66fAWJEtS9eFhiGv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,12 +41,101 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/package_jar/junit-4.13.1.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring_study" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaProject\test_reflection\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestReflect">
+    <configuration name="ReflectDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.reflect.ReflectDemo1" />
+      <module name="test_reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.reflect.ReflectDemo2" />
+      <module name="test_reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.reflect.ReflectDemo3" />
+      <module name="test_reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.reflect.ReflectDemo4" />
+      <module name="test_reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestReflect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learn.reflect.TestReflect" />
+      <module name="test_reflection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learn.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestReflect" />
+        <item itemvalue="Application.ReflectDemo4" />
+        <item itemvalue="Application.ReflectDemo3" />
+        <item itemvalue="Application.ReflectDemo2" />
+        <item itemvalue="Application.ReflectDemo1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -39,7 +147,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606879216866</updated>
-      <workItem from="1606879220074" duration="1047000" />
+      <workItem from="1606879220074" duration="3260000" />
+      <workItem from="1606891170093" duration="8310000" />
     </task>
     <servers />
   </component>
@@ -47,14 +156,54 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2341" y="130" key="FileChooserDialogImpl" timestamp="1606879568044">
+    <state x="2366" y="88" key="#com.intellij.ide.util.MemberChooser" timestamp="1606899583864">
       <screen x="1920" y="31" width="1280" height="689" />
     </state>
-    <state x="2341" y="130" key="FileChooserDialogImpl/0.0.1280.679/1920.31.1280.689@1920.31.1280.689" timestamp="1606879568044" />
-    <state x="2041" y="30" key="SettingsEditor" timestamp="1606879570452">
+    <state x="2366" y="88" key="#com.intellij.ide.util.MemberChooser/0.0.1280.679/1920.31.1280.689@1920.31.1280.689" timestamp="1606899583864" />
+    <state x="2341" y="130" key="FileChooserDialogImpl" timestamp="1606900640785">
       <screen x="1920" y="31" width="1280" height="689" />
     </state>
-    <state x="2041" y="30" key="SettingsEditor/0.0.1280.679/1920.31.1280.689@1920.31.1280.689" timestamp="1606879570452" />
+    <state x="2341" y="130" key="FileChooserDialogImpl/0.0.1280.679/1920.31.1280.689@1920.31.1280.689" timestamp="1606900640785" />
+    <state width="1237" height="303" key="GridCell.Tab.0.bottom" timestamp="1606900641764">
+      <screen x="1920" y="31" width="1280" height="689" />
+    </state>
+    <state width="1237" height="303" key="GridCell.Tab.0.bottom/0.0.1280.679/1920.31.1280.689@1920.31.1280.689" timestamp="1606900641764" />
+    <state width="1237" height="303" key="GridCell.Tab.0.center" timestamp="1606900641764">
+      <screen x="1920" y="31" width="1280" height="689" />
+    </state>
+    <state width="1237" height="303" key="GridCell.Tab.0.center/0.0.1280.679/1920.31.1280.689@1920.31.1280.689" timestamp="1606900641764" />
+    <state width="1237" height="303" key="GridCell.Tab.0.left" timestamp="1606900641764">
+      <screen x="1920" y="31" width="1280" height="689" />
+    </state>
+    <state width="1237" height="303" key="GridCell.Tab.0.left/0.0.1280.679/1920.31.1280.689@1920.31.1280.689" timestamp="1606900641764" />
+    <state width="1237" height="303" key="GridCell.Tab.0.right" timestamp="1606900641764">
+      <screen x="1920" y="31" width="1280" height="689" />
+    </state>
+    <state width="1237" height="303" key="GridCell.Tab.0.right/0.0.1280.679/1920.31.1280.689@1920.31.1280.689" timestamp="1606900641764" />
+    <state width="1237" height="303" key="GridCell.Tab.1.bottom" timestamp="1606900641764">
+      <screen x="1920" y="31" width="1280" height="689" />
+    </state>
+    <state width="1237" height="303" key="GridCell.Tab.1.bottom/0.0.1280.679/1920.31.1280.689@1920.31.1280.689" timestamp="1606900641764" />
+    <state width="1237" height="303" key="GridCell.Tab.1.center" timestamp="1606900641764">
+      <screen x="1920" y="31" width="1280" height="689" />
+    </state>
+    <state width="1237" height="303" key="GridCell.Tab.1.center/0.0.1280.679/1920.31.1280.689@1920.31.1280.689" timestamp="1606900641764" />
+    <state width="1237" height="303" key="GridCell.Tab.1.left" timestamp="1606900641764">
+      <screen x="1920" y="31" width="1280" height="689" />
+    </state>
+    <state width="1237" height="303" key="GridCell.Tab.1.left/0.0.1280.679/1920.31.1280.689@1920.31.1280.689" timestamp="1606900641764" />
+    <state width="1237" height="303" key="GridCell.Tab.1.right" timestamp="1606900641764">
+      <screen x="1920" y="31" width="1280" height="689" />
+    </state>
+    <state width="1237" height="303" key="GridCell.Tab.1.right/0.0.1280.679/1920.31.1280.689@1920.31.1280.689" timestamp="1606900641764" />
+    <state x="2062" y="30" key="SettingsEditor" timestamp="1606893083932">
+      <screen x="1920" y="31" width="1280" height="689" />
+    </state>
+    <state x="2062" y="30" key="SettingsEditor/0.0.1280.679/1920.31.1280.689@1920.31.1280.689" timestamp="1606893083932" />
+    <state x="2245" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1606891173401">
+      <screen x="1920" y="31" width="1280" height="689" />
+    </state>
+    <state x="2245" y="199" key="com.intellij.ide.util.TipDialog/0.0.1280.679/1920.31.1280.689@1920.31.1280.689" timestamp="1606891173401" />
     <state x="1948" y="31" key="new project wizard" timestamp="1606879532000">
       <screen x="1920" y="31" width="1280" height="689" />
     </state>
